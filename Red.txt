@@ -7,4 +7,8 @@ gold, thru my eyes
 
 aaaa Starless aaaand Bible blaaaaaaack
 
+<<<<<<< HEAD
 Je ne parle pas l'anglais. Tiren parooooo
+=======
+Je ne parle pas l'anglais. martin no le muevas xfa
+>>>>>>> dbc35a37ce8b88067066b3558f2df18c5bfb5f4f
